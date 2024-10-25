@@ -1,0 +1,21 @@
+.vscode/ 
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas de compilação
+bin/
+build/
+out/
+target/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários e caches
+*.class
+*.war
+*.ear
+*.zip
+*.tar.gz
