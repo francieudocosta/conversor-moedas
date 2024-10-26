@@ -20,7 +20,21 @@ OBJETIVO: Desenvolver um Conversor de Moedas que ofereça interação textual (v
 
 Taxas de câmbio em tempo real, fornecendo informações precisas e atualizadas para nossas conversões de moeda.
 
+ARS - Peso argentino
+
+BOB - Boliviano boliviano
+
+BRL - Real brasileiro
+
+CLP - Peso chileno
+
+COP - Peso colombiano
+
+USD - Dólar americano
+
 link: [ExchangeRate-API - Free & Pro Currency Converter API](https://www.exchangerate-api.com/)
+
+
 
 
 
